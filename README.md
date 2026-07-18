@@ -1,3 +1,4 @@
 # Praveen-demo
-This is my first Git Repository. 
- Author - Praveen Kumar
+This is my first Git Repository.
+<br>
+Author - Praveen Kumar
